@@ -1,4 +1,4 @@
-package com.example.resttemplate.Client;
+package com.example.resttemplate.client;
 
 import com.example.resttemplate.model.User;
 import org.springframework.http.*;
